@@ -2,9 +2,8 @@
 
 **`Estudante de Tecnologia da Informação`**
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (4º semestre) e Desenvolvimento Full Stack (1º semestre). Atualmente estou aprendendo n8n, HTML, CSS e JavaScript.
+Sou estudante de Análise e Desenvolvimento de Sistemas (5º semestre) e Desenvolvimento Full Stack (2º semestre). Atualmente estou aprendendo Java.
 
-Aplico esses conhecimentos em pequenos projetos colocando em prática meus aprendizados em automação usando n8n com HTML e JS, que aos poucos vou compartilhando nos meus perfis no GitHub e LinkedIn.
 
 Busco oportunidade de contribuir em projetos reais, desenvolver minhas habilidades técnicas e crescer junto a profissionais mais experientes.
 
