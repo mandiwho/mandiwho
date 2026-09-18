@@ -20,7 +20,6 @@ I'm a native Portuguese speaker, with intermediate English and basic Spanish.
 ### Development Tools
 - IntelliJ IDEA
 - Visual Studio Code  
-- Git & GitHub
 
 ### AI & Automation  
 - OpenAI API
