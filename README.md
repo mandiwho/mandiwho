@@ -1,104 +1,43 @@
-# 👩🏻‍💻 Amanda de Paula
 
-**`Estudante de Tecnologia da Informação`**
+## I'm Mandi
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (5º semestre) e Desenvolvimento Full Stack (2º semestre). Atualmente estou aprendendo Java.
+Systems Analysis and Development student interested in software development, AI and automation.
 
+I enjoy building practical solutions, learning new technologies, and exploring how AI and automation can be applied to real-world problems.
 
-Busco oportunidade de contribuir em projetos reais, desenvolver minhas habilidades técnicas e crescer junto a profissionais mais experientes.
+I'm a native Portuguese speaker, with intermediate English and basic Spanish.
 
-Tenho facilidade em aprender e gosto de trabalhar em equipe.
-Estou à disposição para conversar sobre novas oportunidades.
-
-<p align="left">
-    <a href="https://github.com/mandiwho?tab=repositories">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/mandiwho?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/mandiwho?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/mandiwho?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/amandacpn/">
-        <img 
-            alt="LinkedIn" 
-            title="Conecte-se comigo no LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-
-<a href="https://www.instagram.com/amandacpn">
-        <img 
-            alt="Instagram" 
-            title="Me siga no Instagram" 
-            src="https://custom-icon-badges.demolab.com/badge/Instagram-seguidores?color=6228D7&labelColor=6228D7&style=for-the-badge&logo=instagram&logoColor=white"
-        />
-    </a>
+<p align="center">
+  <img src="https://media1.tenor.com/m/pv2oZ5a5HCIAAAAd/cyberpunk2077-edgerunners.gif" alt="Lucy" width="400"/>
 </p>
 
----
+### Currently Learning
+- Java  
+- Spring Boot
+- PostgreSQL  
+- HTML, CSS, and JavaScript
+- Git & GitHub   
 
-### 🤖 Estudando Atualmente
+### Tools I Use
+- IntelliJ
+- Visual Studio Code  
+- Git & GitHub  
+- OpenAI API
+- Claude
+- DeepSeek
+- n8n
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="n8n"
-    title="n8n" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/n8n.svg" 
-/>
+### Dev Goals
+- Become a Full Stack Developer
+- Make everyday life easier through automation
+- Build useful and practical solutions
+- Connect with other developers and learn together 
 
-<br/>
-<br/>
+### Fun Facts
+- Football fan
+- Crochet enthusiast
+- Book lover
+- Romance movies n TV shows are my comfort zone
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=mandiwho&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandiwho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-          
+### Contact Me
+Email: [amandacpnesio@gmail.com](mailto:amandacpnesio@gmail.com)
