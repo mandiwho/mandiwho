@@ -37,7 +37,7 @@ Native Portuguese speaker, with intermediate English and basic Spanish.
 - Soccer fan
 - Crochet enthusiast
 - Book lover
-- Romance movies and TV shows are my comfort zone
+- Romance movies and TV shows with happy endings are my comfort zone
 
 ### Contact Me
 Email: [amandacpnesio@gmail.com](mailto:amandacpnesio@gmail.com)
