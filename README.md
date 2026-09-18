@@ -7,7 +7,7 @@ I enjoy building practical solutions, learning new technologies, and exploring h
 I'm a native Portuguese speaker, with intermediate English and basic Spanish.
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/VoddPEycQT8AAAAd/cyberpunk-edge-runners.gif" alt="Lucy" width="400"/>
+  <img src="https://media1.tenor.com/m/VoddPEycQT8AAAAd/cyberpunk-edge-runners.gif" alt="Lucy" width="500"/>
 </p>
 
 ### Currently Learning
