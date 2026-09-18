@@ -1,4 +1,3 @@
-
 ## I'm Mandi
 
 Systems Analysis and Development student interested in software development, AI and automation.
@@ -18,10 +17,12 @@ I'm a native Portuguese speaker, with intermediate English and basic Spanish.
 - HTML, CSS, and JavaScript
 - Git & GitHub   
 
-### Tools I Use
-- IntelliJ
+### Development Tools
+- IntelliJ IDEA
 - Visual Studio Code  
-- Git & GitHub  
+- Git & GitHub
+
+### AI & Automation  
 - OpenAI API
 - Claude
 - DeepSeek
